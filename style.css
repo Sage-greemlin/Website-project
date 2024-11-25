@@ -1,0 +1,9 @@
+.bgimage{
+    Width: 100%;
+    height: auto;
+}
+.banner-wrap{
+    display: flex;
+    
+    justify-content: center;
+}
